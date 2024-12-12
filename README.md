@@ -59,7 +59,6 @@
 
 
 
-## Output:
 ![image](https://github.com/user-attachments/assets/3003ceb0-dd98-40ec-985d-2acad4588cdd)
 
 ### Name: LAKSHMIDHAR  N
